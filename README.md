@@ -4,13 +4,13 @@ A curated list of resources related to training of GANs
 
 **GAN Variants**
 
-+ 2013- - Vanilla-GAN - . [[Paper]]()
++ 2014-NIPS - Vanilla-GAN - Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/wiseodd/generative-models)
 
-+ 2013- - LS-GAN . [[Paper]]()
++ 2017-ICCV - LS-GAN - Least Squares Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1611.04076v2)[[Code]](https://github.com/wiseodd/generative-models)
 
-+ 2013- - WGAN. [[Paper]]()
++ 2017-ICML - WGAN - Wasserstein GAN. [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/wiseodd/generative-models)
 
-+ 2013- - WGAN-GP. [[Paper]]()
++ 2017-NIPS - WGAN-GP - Improved Training of Wasserstein GANs. [[Paper]](https://arxiv.org/abs/1704.00028)[[Code]](https://github.com/wiseodd/generative-models)
 
 + 2019-ICLR - The relativistic discriminator: a key element missing from standard gan. [[Paper]](https://openreview.net/forum?id=S1erHoR5t7&noteId=S1erHoR5t7) [[Code]](https://github.com/AlexiaJM/RelativisticGAN)
 
@@ -18,6 +18,8 @@ A curated list of resources related to training of GANs
 
 + 2018-ICLR - Progressive Growing of GANs for Improved Quality, Stability, and Variation. [[Paper]](https://arxiv.org/abs/1710.10196)[[Code]](https://github.com/tkarras/progressive_growing_of_gans) 
   - To generate images of high resolution (1024 x 1024).
+
++ 2019-ICLR - BigGAN - Large Scale GAN Training for High Fidelity Natural Image Synthesis. [[Paper]](https://arxiv.org/abs/1809.11096)[[Code]](https://github.com/ajbrock/BigGAN-PyTorch)
 
 
 **Performance analysis and comparisons**
