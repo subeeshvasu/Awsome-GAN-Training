@@ -26,6 +26,8 @@ A curated list of resources related to training of GANs
 
 **Performance analysis and comparisons**
 
++ 2016-NIPS - Improved Techniques for Training GANs. [[Paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)[[Code]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
+
 + 2017-ICLR - Towards Principled Methods for Training Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1701.04862)
 
 + 2018-NIPS - Are GANs Created Equal? A Large-Scale Study. [[Paper]](https://arxiv.org/abs/1711.10337)[[Code]](https://github.com/google/compare_gan)
@@ -49,6 +51,8 @@ A curated list of resources related to training of GANs
 + [Tips for Training Stable GANs](https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/)
 
 + [Getting Started With GANs](https://machinelearningmastery.com/resources-for-getting-started-with-generative-adversarial-networks/)
+
++ [How generative adversarial networks and their variants work: An overview](https://arxiv.org/abs/1711.05914v9)
 
 **Other works**
 
