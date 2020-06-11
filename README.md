@@ -22,6 +22,8 @@ A curated list of resources related to training of GANs
 
 **Performance analysis and comparisons**
 
++ 2017-ICLR - Towards Principled Methods for Training Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1701.04862)
+
 + 2018-NIPS - Are GANs Created Equal? A Large-Scale Study. [[Paper]](https://arxiv.org/abs/1711.10337)[[Code]](https://github.com/google/compare_gan)
 
 + 2018-NIPS - Assessing Generative Models via Precision and Recall. [[Paper]](https://arxiv.org/abs/1806.00035)[[Code]](https://github.com/google/compare_gan)
@@ -29,8 +31,6 @@ A curated list of resources related to training of GANs
 + 2019-ICML - High-Fidelity Image Generation With Fewer Labels. [[Paper]](https://arxiv.org/abs/1903.02271)[[Code]](https://github.com/google/compare_gan)
 
 + 2019-ICML - A Large-Scale Study on Regularization and Normalization in GANs. [[Paper]](https://arxiv.org/pdf/1807.04720.pdf)[[Code]](https://github.com/google/compare_gan)
-
-+ 2017-ICLR - Towards Principled Methods for Training Generative Adversarial Networks. [[Paper]]()
 
 **Hacks**
 
