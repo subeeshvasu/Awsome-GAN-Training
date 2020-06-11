@@ -75,3 +75,5 @@ A curated list of resources related to training of GANs
 **Other Resources**
 
 + [really-awsome-gan](https://github.com/nightrome/really-awesome-gan)
+
++ [awesome-GAN](https://github.com/Faldict/awesome-GAN)
