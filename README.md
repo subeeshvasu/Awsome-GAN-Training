@@ -56,6 +56,8 @@ A curated list of resources related to training of GANs
 
 + [How generative adversarial networks and their variants work: An overview](https://arxiv.org/abs/1711.05914v9)
 
++ [Instance Noise: A trick for stabilising GAN training](https://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/)
+
 **Other works**
 
 + 2019-CVPR - Label-Noise Robust Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1811.11165)[[Code]](https://github.com/takuhirok/rGAN/)[[Project Page]](https://takuhirok.github.io/rGAN/)
