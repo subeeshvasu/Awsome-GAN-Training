@@ -14,7 +14,7 @@ A curated list of resources related to training of GANs
 
 + 2019-ICLR - The relativistic discriminator: a key element missing from standard gan. [[Paper]](https://openreview.net/forum?id=S1erHoR5t7&noteId=S1erHoR5t7) [[Code]](https://github.com/AlexiaJM/RelativisticGAN)
 
-**Working cnfigurations: Hyperparameters, Network Architectures**
+**Normalization, Network Architecture**
 
 + 2017-CVPR - PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets. [[Paper]](https://arxiv.org/abs/1611.07004)[[Code]](https://github.com/phillipi/pix2pix)
 
