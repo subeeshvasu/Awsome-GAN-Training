@@ -16,7 +16,7 @@ A curated list of resources related to training of GANs
 
 **Working cnfigurations: Hyperparameters, Network Architectures**
 
-+ 2018-ICLR - Progressive Growing of GANs for Improved Quality, Stability, and Variation. [[Paper]](https://arxiv.org/abs/1710.10196)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)use 
++ 2018-ICLR - Progressive Growing of GANs for Improved Quality, Stability, and Variation. [[Paper]](https://arxiv.org/abs/1710.10196)[[Code]](https://github.com/tkarras/progressive_growing_of_gans) 
   - To generate images of high resolution (1024 x 1024).
 
 
@@ -38,9 +38,9 @@ A curated list of resources related to training of GANs
 
 + 2016 - Deconvolution and Checkerboard Artifacts. [Link](https://distill.pub/2016/deconv-checkerboard/)
 
-+ 2018-ECCVW - ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/1809.00219.pdf)
-  - First work to apply relativistic discriminator for image super-resolution.
-  - Batch normalization (BN) can generate artifacts when the generator goes deeper or there is an extra BN layer in HR (high-resolution) space.
++ 2018-ECCVW - ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/1809.00219.pdf) 
+  - First work to apply relativistic discriminator for image super-resolution. 
+  - Batch normalization (BN) can generate artifacts when the generator goes deeper or there is an extra BN layer in HR (high-resolution) space.
   
 + [Tips for Training Stable GANs](https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/)
 
