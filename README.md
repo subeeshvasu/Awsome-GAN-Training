@@ -16,8 +16,8 @@ A curated list of resources related to training of GANs
 
 **Working cnfigurations: Hyperparameters, Network Architectures**
 
-+ 2018-ICLR - Progressive Growing of GANs for Improved Quality, Stability, and Variation. [[Paper]](https://arxiv.org/abs/1710.10196)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)
-  - To generate images of high resolution (1024 x 1024).
++ 2018-ICLR - Progressive Growing of GANs for Improved Quality, Stability, and Variation. [[Paper]](https://arxiv.org/abs/1710.10196)[[Code]](https://github.com/tkarras/progressive_growing_of_gans) 
+  -To generate images of high resolution (1024 x 1024).
 
 **Performance analysis and comparisons**
 
