@@ -18,10 +18,15 @@ A curated list of resources related to training of GANs
 
 + 2017-CVPR - PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets. [[Paper]](https://arxiv.org/abs/1611.07004)[[Code]](https://github.com/phillipi/pix2pix)
 
++ 2017 - Megapixel Size Image Creation using Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1706.00082) 
+  - To generate images of high resolution (1024 x 1024).
+
 + 2018-ICLR - SN-GAN - Spectral Normalization for Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1802.05957)[[Code]](https://github.com/godisboy/SN-GAN)
 
 + 2018-ICLR - Progressive Growing of GANs for Improved Quality, Stability, and Variation. [[Paper]](https://arxiv.org/abs/1710.10196)[[Code]](https://github.com/tkarras/progressive_growing_of_gans) 
   - To generate images of high resolution (1024 x 1024).
+  
++ 2018- Efficient Super Resolution For Large-Scale Images Using Attentional GAN. [[Paper]](https://arxiv.org/pdf/1812.04821.pdf)
 
 + 2019-ICLR - BigGAN - Large Scale GAN Training for High Fidelity Natural Image Synthesis. [[Paper]](https://arxiv.org/abs/1809.11096)[[Code]](https://github.com/ajbrock/BigGAN-PyTorch)
 
@@ -31,6 +36,10 @@ A curated list of resources related to training of GANs
 + 2016-NIPS - Improved Techniques for Training GANs. [[Paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)[[Code]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
 
 + 2017-ICLR - Towards Principled Methods for Training Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1701.04862)
+
++ 2017 - On the Effects of Batch and Weight Normalization in Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1704.03971)
+
++ 2017 - Stabilizing Training of Generative Adversarial Networks through Regularization. [[Paper]](https://arxiv.org/abs/1705.09367)
 
 + 2018-NIPS - Are GANs Created Equal? A Large-Scale Study. [[Paper]](https://arxiv.org/abs/1711.10337)[[Code]](https://github.com/google/compare_gan)
 
