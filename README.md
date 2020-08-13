@@ -30,6 +30,8 @@ A curated list of resources related to training of GANs
 
 + 2019-ICLR - BigGAN - Large Scale GAN Training for High Fidelity Natural Image Synthesis. [[Paper]](https://arxiv.org/abs/1809.11096)[[Code]](https://github.com/ajbrock/BigGAN-PyTorch)
 
++ 2020-CVPR - A U-Net Based Discriminator for Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/2002.12655)
+
 
 **Performance analysis and comparisons**
 
