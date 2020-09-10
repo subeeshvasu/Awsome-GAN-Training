@@ -25,6 +25,11 @@ A curated list of resources related to training of GANs
 |2020|CVPR|[Pt](https://github.com/lucidrains/unet-stylegan2)|[A U-Net Based Discriminator for Generative Adversarial Networks](https://arxiv.org/abs/2002.12655)
 |2020|CVPR|[Pt](https://github.com/lucidrains/stylegan2-pytorch)|[Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
+**Misc**
+|Year|Conf|Code|Title|
+|----|----|----|-----|
+|2020|Arxiv||[Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)|
+
 **Performance analysis and comparisons**
 
 + 2016-NIPS - Improved Techniques for Training GANs. [[Paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)[[Code]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
