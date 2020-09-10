@@ -18,10 +18,10 @@ A curated list of resources related to training of GANs
 |----|----|----|-----|
 |2017|CVPR|[Torch](https://github.com/phillipi/pix2pix),[Pt](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|[PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets](https://arxiv.org/abs/1611.07004)|
 |2017|||[Megapixel Size Image Creation using Generative Adversarial Networks](https://arxiv.org/abs/1706.00082)|
-|2018|ICLR|[Code](https://github.com/godisboy/SN-GAN)|[SN-GAN - Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)|
-|2018|ICLR|[Code](https://github.com/tkarras/progressive_growing_of_gans)|[Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)|
+|2018|ICLR|[Pt](https://github.com/godisboy/SN-GAN)|[SN-GAN - Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)|
+|2018|ICLR|[Tf+Theano](https://github.com/tkarras/progressive_growing_of_gans)|[Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)|
 |2018|||[Efficient Super Resolution For Large-Scale Images Using Attentional GAN](https://arxiv.org/pdf/1812.04821.pdf)|
-|2019|ICLR|[Code](https://github.com/ajbrock/BigGAN-PyTorch)|[BigGAN - Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)|
+|2019|ICLR|[Pt](https://github.com/ajbrock/BigGAN-PyTorch)|[BigGAN - Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)|
 |2020|CVPR||[A U-Net Based Discriminator for Generative Adversarial Networks](https://arxiv.org/abs/2002.12655)
 
 
