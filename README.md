@@ -27,7 +27,6 @@ A curated list of resources related to training of GANs
 
 **Performance analysis and comparisons**
 
-**Misc**
 |Year|Conf|Code|Title|
 |----|----|----|-----|
 |2016|NIPS|[Pt](https://github.com/Sleepychord/ImprovedGAN-pytorch)|[Improved Techniques for Training GANs](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)|
@@ -40,6 +39,7 @@ A curated list of resources related to training of GANs
 |2019|ICML|[Tf](https://github.com/google/compare_gan)|[A Large-Scale Study on Regularization and Normalization in GANs](https://arxiv.org/pdf/1807.04720.pdf)|
 
 **Misc**
+
 |Year|Conf|Code|Title|
 |----|----|----|-----|
 |2019|CVPR|[Pt](https://github.com/takuhirok/rGAN/)|[Label-Noise Robust Generative Adversarial Networks](https://arxiv.org/abs/1811.11165)|
