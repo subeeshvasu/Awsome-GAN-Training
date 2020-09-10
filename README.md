@@ -35,8 +35,8 @@ A curated list of resources related to training of GANs
 |2017|||[On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](https://arxiv.org/abs/1704.03971)|
 |2017|||[Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)|
 |2018|NIPS|[Tf](https://github.com/google/compare_gan)|[Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/abs/1711.10337)|
-|2018|NIPS|[Tf](https://github.com/google/compare_gan)|Assessing Generative Models via Precision and Recall|[Paper](https://arxiv.org/abs/1806.00035)|
-|2019|ICML|[Tf](https://github.com/google/compare_gan)|High-Fidelity Image Generation With Fewer Labels|[Paper](https://arxiv.org/abs/1903.02271)|
+|2018|NIPS|[Tf](https://github.com/google/compare_gan)|[Assessing Generative Models via Precision and Recall](https://arxiv.org/abs/1806.00035)|
+|2019|ICML|[Tf](https://github.com/google/compare_gan)|[High-Fidelity Image Generation With Fewer Labels](https://arxiv.org/abs/1903.02271)|
 |2019|ICML|[Tf](https://github.com/google/compare_gan)|[A Large-Scale Study on Regularization and Normalization in GANs](https://arxiv.org/pdf/1807.04720.pdf)|
 
 **Misc**
