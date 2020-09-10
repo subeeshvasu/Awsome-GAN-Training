@@ -6,17 +6,17 @@ A curated list of resources related to training of GANs
 
 |Year|Conf|Code|Title|
 |----|----|----|-----|
-|2014|NIPS|[Pt,Tf](https://github.com/wiseodd/generative-models)|[Vanilla-GAN - Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2)|
-|2017|ICCV|[Pt,Tf](https://github.com/wiseodd/generative-models)|[LS-GAN - Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2)|
-|2017|ICML|[Pt,Tf](https://github.com/wiseodd/generative-models)|[WGAN - Wasserstein GAN](https://arxiv.org/abs/1701.07875)|
-|2017|NIPS|[Pt,Tf](https://github.com/wiseodd/generative-models)|[WGAN-GP - Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)|
-|2019|ICLR|[Pt,Tf](https://github.com/AlexiaJM/RelativisticGAN)|[The relativistic discriminator: a key element missing from standard gan](https://openreview.net/forum?id=S1erHoR5t7&noteId=S1erHoR5t7)|
+|2014|NIPS|[Pt+Tf](https://github.com/wiseodd/generative-models)|[Vanilla-GAN - Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2)|
+|2017|ICCV|[Pt+Tf](https://github.com/wiseodd/generative-models)|[LS-GAN - Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2)|
+|2017|ICML|[Pt+Tf](https://github.com/wiseodd/generative-models)|[WGAN - Wasserstein GAN](https://arxiv.org/abs/1701.07875)|
+|2017|NIPS|[Pt+Tf](https://github.com/wiseodd/generative-models)|[WGAN-GP - Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)|
+|2019|ICLR|[Pt](https://github.com/AlexiaJM/RelativisticGAN)|[The relativistic discriminator: a key element missing from standard gan](https://openreview.net/forum?id=S1erHoR5t7&noteId=S1erHoR5t7)|
 
 **Normalization, Network Architecture**
 
 |Year|Conf|Code|Title|
 |----|----|----|-----|
-|2017|CVPR|[Torch](https://github.com/phillipi/pix2pix)[Pt](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|[PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets](https://arxiv.org/abs/1611.07004)|
+|2017|CVPR|[Torch](https://github.com/phillipi/pix2pix),[Pt](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|[PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets](https://arxiv.org/abs/1611.07004)|
 
 + 2017 - Megapixel Size Image Creation using Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1706.00082) 
   - To generate images of high resolution (1024 x 1024).
