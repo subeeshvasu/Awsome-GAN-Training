@@ -5,7 +5,7 @@ A curated list of resources related to training of GANs
 **GAN Variants**
 
 |Year|Conf|Code|Title|
-|----|----|----|----|-----|
+|----|----|----|-----|
 |2014|NIPS|[Tf](https://github.com/wiseodd/generative-models)|[Vanilla-GAN - Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2)|
 
 
