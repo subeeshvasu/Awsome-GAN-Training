@@ -14,7 +14,9 @@ A curated list of resources related to training of GANs
 
 **Normalization, Network Architecture**
 
-+ 2017-CVPR - PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets. [[Paper]](https://arxiv.org/abs/1611.07004)[[Code]](https://github.com/phillipi/pix2pix)
+|Year|Conf|Code|Title|
+|----|----|----|-----|
+|2017|CVPR|[Code](https://github.com/phillipi/pix2pix)|[PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets](https://arxiv.org/abs/1611.07004)|
 
 + 2017 - Megapixel Size Image Creation using Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1706.00082) 
   - To generate images of high resolution (1024 x 1024).
