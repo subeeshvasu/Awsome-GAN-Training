@@ -4,7 +4,10 @@ A curated list of resources related to training of GANs
 
 **GAN Variants**
 
-+ 2014-NIPS - Vanilla-GAN - Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/wiseodd/generative-models)
+|Year|Conf|Code|Title|
+|----|----|----|----|-----|
+|2014|NIPS|[Tf](https://github.com/wiseodd/generative-models)|[Vanilla-GAN - Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2)|
+
 
 + 2017-ICCV - LS-GAN - Least Squares Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1611.04076v2)[[Code]](https://github.com/wiseodd/generative-models)
 
