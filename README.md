@@ -23,7 +23,7 @@ A curated list of resources related to training of GANs
 |2018|||[Efficient Super Resolution For Large-Scale Images Using Attentional GAN](https://arxiv.org/pdf/1812.04821.pdf)|
 |2019|ICLR|[Pt](https://github.com/ajbrock/BigGAN-PyTorch)|[BigGAN - Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)|
 |2020|CVPR|[Pt](https://github.com/lucidrains/unet-stylegan2)|[A U-Net Based Discriminator for Generative Adversarial Networks](https://arxiv.org/abs/2002.12655)
-
+|2020|CVPR|[Pt](https://github.com/lucidrains/stylegan2-pytorch)|[Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
 **Performance analysis and comparisons**
 
