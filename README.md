@@ -17,7 +17,7 @@ A curated list of resources related to training of GANs
 |Year|Conf|Code|Title|
 |----|----|----|-----|
 |2017|CVPR|[Torch](https://github.com/phillipi/pix2pix),[Pt](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|[PatchGAN - Image-to-Image Translation with Conditional Adversarial Nets](https://arxiv.org/abs/1611.07004)|
-|2017|||[Megapixel Size Image Creation using Generative Adversarial Networks](https://arxiv.org/abs/1706.00082)|
+|2017|Arxiv||[Megapixel Size Image Creation using Generative Adversarial Networks](https://arxiv.org/abs/1706.00082)|
 |2018|ICLR|[Pt](https://github.com/godisboy/SN-GAN)|[SN-GAN - Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)|
 |2018|ICLR|[Tf+Theano](https://github.com/tkarras/progressive_growing_of_gans)|[Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)|
 |2018|||[Efficient Super Resolution For Large-Scale Images Using Attentional GAN](https://arxiv.org/pdf/1812.04821.pdf)|
@@ -31,8 +31,8 @@ A curated list of resources related to training of GANs
 |----|----|----|-----|
 |2016|NIPS|[Pt](https://github.com/Sleepychord/ImprovedGAN-pytorch)|[Improved Techniques for Training GANs](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)|
 |2017|ICLR||[Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)|
-|2017|||[On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](https://arxiv.org/abs/1704.03971)|
-|2017|||[Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)|
+|2017|Arxiv||[On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](https://arxiv.org/abs/1704.03971)|
+|2017|Arxiv||[Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)|
 |2018|NIPS|[Tf](https://github.com/google/compare_gan)|[Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/abs/1711.10337)|
 |2018|NIPS|[Tf](https://github.com/google/compare_gan)|[Assessing Generative Models via Precision and Recall](https://arxiv.org/abs/1806.00035)|
 |2019|ICML|[Tf](https://github.com/google/compare_gan)|[High-Fidelity Image Generation With Fewer Labels](https://arxiv.org/abs/1903.02271)|
@@ -45,8 +45,8 @@ A curated list of resources related to training of GANs
 |2019|CVPR|[Pt](https://github.com/takuhirok/rGAN/)|[Label-Noise Robust Generative Adversarial Networks](https://arxiv.org/abs/1811.11165)|
 |2020|Arxiv||[Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)|
 |2020|CVPR||[Noise Robust Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kaneko_Noise_Robust_Generative_Adversarial_Networks_CVPR_2020_paper.pdf)|
-|2020|||[A review on generative adversarial networks: Algorithms, theory, and applications](https://arxiv.org/abs/2001.06937)|
-|2020|||[Regularization Methods for Generative Adversarial Networks: An Overview of Recent Studies](https://arxiv.org/pdf/2005.09165.pdf)|
+|2020|Arxiv||[A review on generative adversarial networks: Algorithms, theory, and applications](https://arxiv.org/abs/2001.06937)|
+|2020|Arxiv||[Regularization Methods for Generative Adversarial Networks: An Overview of Recent Studies](https://arxiv.org/pdf/2005.09165.pdf)|
 
 **Hacks**
 
