@@ -25,28 +25,24 @@ A curated list of resources related to training of GANs
 |2020|CVPR|[Pt](https://github.com/lucidrains/unet-stylegan2)|[A U-Net Based Discriminator for Generative Adversarial Networks](https://arxiv.org/abs/2002.12655)
 |2020|CVPR|[Pt](https://github.com/lucidrains/stylegan2-pytorch)|[Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
+**Performance analysis and comparisons**
+
+**Misc**
+|Year|Conf|Code|Title|
+|----|----|----|-----|
+|2016|NIPS|[Pt](https://github.com/Sleepychord/ImprovedGAN-pytorch)|[Improved Techniques for Training GANs](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)|
+|2017|ICLR||[Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)|
+|2017|||[On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](https://arxiv.org/abs/1704.03971)|
+|2017|||[Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)|
+|2018|NIPS|[Tf](https://github.com/google/compare_gan)|[Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/abs/1711.10337)|
+|2018|NIPS|[Tf](https://github.com/google/compare_gan)|Assessing Generative Models via Precision and Recall|[Paper](https://arxiv.org/abs/1806.00035)|
+|2019|ICML|[Tf](https://github.com/google/compare_gan)|High-Fidelity Image Generation With Fewer Labels|[Paper](https://arxiv.org/abs/1903.02271)|
+|2019|ICML|[Tf](https://github.com/google/compare_gan)|[A Large-Scale Study on Regularization and Normalization in GANs](https://arxiv.org/pdf/1807.04720.pdf)|
+
 **Misc**
 |Year|Conf|Code|Title|
 |----|----|----|-----|
 |2020|Arxiv||[Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)|
-
-**Performance analysis and comparisons**
-
-+ 2016-NIPS - Improved Techniques for Training GANs. [[Paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)[[Code]](https://github.com/Sleepychord/ImprovedGAN-pytorch)
-
-+ 2017-ICLR - Towards Principled Methods for Training Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1701.04862)
-
-+ 2017 - On the Effects of Batch and Weight Normalization in Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1704.03971)
-
-+ 2017 - Stabilizing Training of Generative Adversarial Networks through Regularization. [[Paper]](https://arxiv.org/abs/1705.09367)
-
-+ 2018-NIPS - Are GANs Created Equal? A Large-Scale Study. [[Paper]](https://arxiv.org/abs/1711.10337)[[Code]](https://github.com/google/compare_gan)
-
-+ 2018-NIPS - Assessing Generative Models via Precision and Recall. [[Paper]](https://arxiv.org/abs/1806.00035)[[Code]](https://github.com/google/compare_gan)
-
-+ 2019-ICML - High-Fidelity Image Generation With Fewer Labels. [[Paper]](https://arxiv.org/abs/1903.02271)[[Code]](https://github.com/google/compare_gan)
-
-+ 2019-ICML - A Large-Scale Study on Regularization and Normalization in GANs. [[Paper]](https://arxiv.org/pdf/1807.04720.pdf)[[Code]](https://github.com/google/compare_gan)
 
 **Hacks**
 
