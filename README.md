@@ -37,7 +37,7 @@ A curated list of resources related to training of GANs
 |2018|NIPS|[Tf](https://github.com/google/compare_gan)|[Assessing Generative Models via Precision and Recall](https://arxiv.org/abs/1806.00035)|
 |2019|ICML|[Tf](https://github.com/google/compare_gan)|[High-Fidelity Image Generation With Fewer Labels](https://arxiv.org/abs/1903.02271)|
 |2019|ICML|[Tf](https://github.com/google/compare_gan)|[A Large-Scale Study on Regularization and Normalization in GANs](https://arxiv.org/pdf/1807.04720.pdf)|
-
+|2020|Arxiv||[GANs with Variational Entropy Regularizers: Applications in Mitigating the Mode-Collapse Issue](https://arxiv.org/abs/2009.11921)|
 **Misc**
 
 |Year|Conf|Code|Title|
