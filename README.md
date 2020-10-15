@@ -47,6 +47,7 @@ A curated list of resources related to training of GANs
 |2020|CVPR||[Noise Robust Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kaneko_Noise_Robust_Generative_Adversarial_Networks_CVPR_2020_paper.pdf)|
 |2020|Arxiv||[A review on generative adversarial networks: Algorithms, theory, and applications](https://arxiv.org/abs/2001.06937)|
 |2020|Arxiv||[Regularization Methods for Generative Adversarial Networks: An Overview of Recent Studies](https://arxiv.org/pdf/2005.09165.pdf)|
+|2020|Arxiv||[Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)|
 
 **Hacks**
 
