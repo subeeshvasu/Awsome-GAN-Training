@@ -44,11 +44,12 @@ A curated list of resources related to training of GANs
 |Year|Conf|Code|Title|
 |----|----|----|-----|
 |2019|CVPR|[Pt](https://github.com/takuhirok/rGAN/)|[Label-Noise Robust Generative Adversarial Networks](https://arxiv.org/abs/1811.11165)|
+|2019|ICCV|[Pt](https://github.com/tamarott/SinGAN)|[Singan: Learning a generative model from a single natural image](https://arxiv.org/abs/1905.01164)|
 |2020|Arxiv||[Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)|
 |2020|CVPR||[Noise Robust Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kaneko_Noise_Robust_Generative_Adversarial_Networks_CVPR_2020_paper.pdf)|
 |2020|Arxiv||[A review on generative adversarial networks: Algorithms, theory, and applications](https://arxiv.org/abs/2001.06937)|
 |2020|Arxiv||[Regularization Methods for Generative Adversarial Networks: An Overview of Recent Studies](https://arxiv.org/pdf/2005.09165.pdf)|
-
+|2020|Arxiv|[Pt](https://github.com/tohinz/ConSinGAN)|[Improved techniques for training single-image gans](https://arxiv.org/abs/2003.11512)
 **Hacks**
 
 + [ganhacks](https://github.com/soumith/ganhacks)
