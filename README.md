@@ -50,6 +50,7 @@ A curated list of resources related to training of GANs
 |2020|Arxiv||[A review on generative adversarial networks: Algorithms, theory, and applications](https://arxiv.org/abs/2001.06937)|
 |2020|Arxiv||[Regularization Methods for Generative Adversarial Networks: An Overview of Recent Studies](https://arxiv.org/pdf/2005.09165.pdf)|
 |2020|Arxiv|[Pt](https://github.com/tohinz/ConSinGAN)|[Improved techniques for training single-image gans](https://arxiv.org/abs/2003.11512)
+
 **Hacks**
 
 + [ganhacks](https://github.com/soumith/ganhacks)
